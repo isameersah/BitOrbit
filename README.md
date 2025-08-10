@@ -21,10 +21,7 @@ It uses the **API Ninjas Bitcoin API** to fetch live cryptocurrency data and dis
 
 ## 📸 Screenshots
 
-| Live Price View | Stats View |
-|-----------------|------------|
-| ![Preview](https://via.placeholder.com/400x250?text=Live+Price) | ![Preview](https://via.placeholder.com/400x250?text=Stats) |
-
+![Preview](https://i.imgur.com/5za0oYu.png)
 ---
 
 ## 🛠️ Technologies Used
