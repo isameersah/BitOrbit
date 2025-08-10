@@ -46,11 +46,10 @@ It uses the **API Ninjas Bitcoin API** to fetch live cryptocurrency data and dis
 
 2. Navigate into the project folder
 
-bash
-Copy
-Edit
+``` bash
 cd bitORBIT
 Open index.html in your browser
+```
 
 ## ⚠️ Disclaimer
 This project is for **educational and informational purposes only**.  
