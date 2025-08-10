@@ -51,3 +51,21 @@ Copy
 Edit
 cd bitORBIT
 Open index.html in your browser
+
+## ⚠️ Disclaimer
+This project is for **educational and informational purposes only**.  
+Cryptocurrency prices are highly volatile — **invest at your own risk**.  
+We do not guarantee the accuracy or completeness of the data provided.
+
+---
+
+## 💙 Credits
+- **Developer:** Sameer Sah  
+- **Icons:** [Icons8](https://icons8.com)  
+- **API Provider:** [API Ninjas](https://api-ninjas.com/)
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.
+
