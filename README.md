@@ -38,7 +38,7 @@ It uses the **API Ninjas Bitcoin API** to fetch live cryptocurrency data and dis
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/bitORBIT.git
+git clone https://github.com/isameersah/bitORBIT.git
 ```
 
 2. Navigate into the project folder
